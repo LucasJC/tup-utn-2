@@ -1,1 +1,1 @@
-otro-texto-diferente 
+otro-texto-diferente texto-conflictivo
